@@ -55,6 +55,7 @@ plt.close()
 # 项目实例（化学反应速率方程部分笔记节选）
 
 对于总包反应，可以采用平衡态假设的方法来推导其速率方程：
+
 $$ A \leftrightharpoons Int. \rightarrow P$$
 
 $$r = \frac{d[P]}{dt} = k[Int.] = k K^{\neq} [A] = k^{\neq}A$$
